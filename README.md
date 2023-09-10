@@ -1,4 +1,4 @@
-# Photo-Gallery-App
+# Vision Vault - Photo gallery app
 
 Built with MongoDB Express React NodeJS.
 File system is handled using GridFS.
